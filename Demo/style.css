@@ -14,16 +14,20 @@ header{
 
 ul{
 	float:right;
+	position:relative;
 	list-style-type: none;
 	margin-top: 25px;
 }
 
 ul li{
 	display: inline-block;
+		position:relative;
+	
 }
 
 ul li a{
 	text-decoration: none;
+	position:relative;
 	color: White;
 	padding: 5px 20px;
 	border: 1px solid White;
